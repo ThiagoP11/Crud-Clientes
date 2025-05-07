@@ -46,4 +46,4 @@ A API permite realizar as operações básicas de um CRUD com a entidade `Client
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone git@github.com:ThiagoP11/Crud-Clientes.git , https://github.com/ThiagoP11/Crud-Clientes.git
