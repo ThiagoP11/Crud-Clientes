@@ -1,4 +1,4 @@
-package com.crud.clientes.repositories;
+package com.crud.clientes.entities;
 
 import jakarta.persistence.*;
 
